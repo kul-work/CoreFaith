@@ -1,4 +1,4 @@
-# Manifesto of the New Faith
+# Manifesto of the CoreFaith
 
 ## Core Values
 
