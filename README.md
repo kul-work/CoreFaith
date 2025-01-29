@@ -4,4 +4,4 @@
 
 **CoreFaith** is a faith system that integrates fundamental Christian values with libertarian principles, promoting individual freedom, personal responsibility, and a commitment to ethical living. 
 
-Please check the [Manifesto](https://github.com/kul-work/CoreFaith/blob/main/Manifesto%20of%20the%20CoreFaith.md) and [CREDO](https://github.com/kul-work/CoreFaith/blob/main/CoreFaith%20Credo.md).
+Please check our [CREDO](https://github.com/kul-work/CoreFaith/blob/main/CoreFaith%20Credo.md) and the [Manifesto](https://github.com/kul-work/CoreFaith/blob/main/Manifesto%20of%20the%20CoreFaith.md).
