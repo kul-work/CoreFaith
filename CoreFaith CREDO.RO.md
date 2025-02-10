@@ -9,7 +9,7 @@
 
 ## 🤝 COMUNITATE
 * Asociază-te liber și voluntar
-* Sprijină-i pe alții în momente de nevoie
+* Sprijină-i pe alții la nevoie
 
 ## 🌟 PRACTICĂ ZILNICĂ
 * Trăiește cu aceste valori în fiecare zi
