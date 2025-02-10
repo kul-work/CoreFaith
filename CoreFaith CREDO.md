@@ -1,7 +1,7 @@
 # COREFAITH CREDO
 
 ## 📝 CORE VALUES
-* Love and show compassion in all actions
+* Love and compassion in all actions
 * Practice forgiveness, release grudges
 * Cause no harm to others
 * Respect others' property as your own
